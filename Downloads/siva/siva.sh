@@ -1,5 +1,5 @@
 #!\usr\bin\bash
-name='siva'
+name='siva11'
 if[$name="siva"]
 then
 echo "matching found"
