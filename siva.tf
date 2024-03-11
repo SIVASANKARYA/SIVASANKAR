@@ -11,7 +11,7 @@ resource "aws_db_instance" "example_rds" {
   instance_class        = "db.t2.micro"
   name                  = "example_db"
   username              = "admin"
-  password              = "Password1234"  # Please set a strong password
+  password              = "Passworesdfff4"  # Please set a strong password
   parameter_group_name  = "default.mysql5.7"
   
   # You can customize the configuration according to your needs
